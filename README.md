@@ -2,6 +2,6 @@
 This is "Prank Signin" Program
 
 ---
-Hint
+# Hint
 id: 닭은 왼발잡이다
 pw: ㄹㅇㅋㅋ
