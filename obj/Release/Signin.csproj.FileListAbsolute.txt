@@ -9,3 +9,14 @@ C:\Users\USER\Desktop\Code\C++\Signin\obj\Release\Signin.csproj.GenerateResource
 C:\Users\USER\Desktop\Code\C++\Signin\obj\Release\Signin.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\Code\C++\Signin\obj\Release\Signin.exe
 C:\Users\USER\Desktop\Code\C++\Signin\obj\Release\Signin.pdb
+C:\Users\USER\Desktop\Code\C#\Signin\bin\Release\Signin.exe.config
+C:\Users\USER\Desktop\Code\C#\Signin\bin\Release\Signin.exe
+C:\Users\USER\Desktop\Code\C#\Signin\bin\Release\Signin.pdb
+C:\Users\USER\Desktop\Code\C#\Signin\obj\Release\Signin.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Code\C#\Signin\obj\Release\Signin.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Code\C#\Signin\obj\Release\Signin.Form1.resources
+C:\Users\USER\Desktop\Code\C#\Signin\obj\Release\Signin.Properties.Resources.resources
+C:\Users\USER\Desktop\Code\C#\Signin\obj\Release\Signin.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Code\C#\Signin\obj\Release\Signin.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Code\C#\Signin\obj\Release\Signin.exe
+C:\Users\USER\Desktop\Code\C#\Signin\obj\Release\Signin.pdb

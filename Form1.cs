@@ -22,9 +22,15 @@ namespace Signin
             string userId = id.Text;
             string userPassword = password.Text;
 
-            if(userId.Equals("닭은 왼발잡이다") && userPassword.Equals("ㄹㅇㅋㅋ")) {
+            if(userId.Equals("닭은 왼발잡이다") && userPassword.Equals("ㄹㅇㅋㅋ"))
+            {
                 MessageBox.Show("로그인에 성공했습니다", "로그인");
-            } else
+            }
+            else if(userId.Equals("ㅇ") && userPassword.Equals("ㅇ"))
+            {
+                MessageBox.Show("이걸찾아?", "제작자");
+            }
+            else
             {
                 MessageBox.Show("로그인에 실패하였습니다", "로그인");
             }
