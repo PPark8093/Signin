@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\Code\C++\Signin\bin\Debug\Signin.exe.config
+C:\Users\USER\Desktop\Code\C++\Signin\bin\Debug\Signin.exe
+C:\Users\USER\Desktop\Code\C++\Signin\bin\Debug\Signin.pdb
+C:\Users\USER\Desktop\Code\C++\Signin\obj\Debug\Signin.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Code\C++\Signin\obj\Debug\Signin.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Code\C++\Signin\obj\Debug\Signin.Form1.resources
+C:\Users\USER\Desktop\Code\C++\Signin\obj\Debug\Signin.Properties.Resources.resources
+C:\Users\USER\Desktop\Code\C++\Signin\obj\Debug\Signin.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Code\C++\Signin\obj\Debug\Signin.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Code\C++\Signin\obj\Debug\Signin.exe
+C:\Users\USER\Desktop\Code\C++\Signin\obj\Debug\Signin.pdb
